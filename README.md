@@ -8,11 +8,11 @@ The system fetches data using direct API calls (Trello) and standard Python libr
 
 A web frontend built with **Next.js**, **TypeScript**, and **Tailwind CSS** provides an interface to trigger report generation and view the raw data and the AI-generated analysis.
 
-## Real-World Scenario
+## Real-World Scenario with Example
 
 ### Team Setup
 - **Project Phoenix Team**
-  - Sarah (Project Manager)
+  - Tushar (Project Manager)
   - David (Technical Lead)
 
 ### Daily Workflow
