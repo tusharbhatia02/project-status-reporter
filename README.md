@@ -22,8 +22,8 @@ A web frontend built with **Next.js**, **TypeScript**, and **Tailwind CSS** prov
    - AI agent analyzes the data and generates actionable insights
 
 2. **Team Interaction**
-   - Sarah (PM) immediately sees the summary, action items, and risks on Slack
-   - She can quickly tag David in a thread: "@David Can you prioritize the DB task? Who has context on the blocker messages?"
+   - Tushar (PM) immediately sees the summary, action items, and risks on Slack
+   - He can quickly tag David in a thread: "@David Can you prioritize the DB task? Who has context on the blocker messages?"
    - David (Lead) sees clear priorities and responds promptly within Slack
    - Team stays efficiently informed without wading through raw data
 
