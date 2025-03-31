@@ -265,8 +265,6 @@ This pica-langchain function builds a LangChain agent framework (AgentExecutor) 
 ### Agent Execution
 The agent uses the configured Gemini LLM (ChatGoogleGenerativeAI) for its core reasoning and analysis task based on the prompt and the raw report data provided by the Python services. In this specific workflow, the agent's analysis task does not require calling external Pica Connector tools, so it relies on the LLM's capabilities. The Pica integration provides the framework for potential tool use.
 
-### status_reporter.pica
-This DSL file remains as a design artifact, illustrating the intended report generation logic using Pica's language, which is now implemented in the Python services/report_builder.py.
 
 ## Future Enhancements
 
