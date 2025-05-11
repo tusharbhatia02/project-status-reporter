@@ -1,4 +1,4 @@
-# Automated Project Status Reporter
+# ProStat: Automated Project Status Reporter
 
 ## Overview
 
